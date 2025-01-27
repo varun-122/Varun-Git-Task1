@@ -1,0 +1,14 @@
+Languages and Frameworks:
+ 1.Java
+ 2.C/C++
+ 3.Python
+ 4.Tailwind
+ 5.React Js library
+ 6.SQL
+
+Soft Skills:
+ 1.Communication
+ 2.Presentation
+ 3.Team Work
+ 4.Problem Solving
+ 5.Data Analytics and Business Analytics
