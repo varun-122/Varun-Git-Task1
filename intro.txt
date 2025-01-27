@@ -1,0 +1,2 @@
+This is a Git version control task assigned to me. In this task, I create a repository on gitHub(remote) 
+and clone it to my Laptop(local) and then create branches A, B, C from main branch.
